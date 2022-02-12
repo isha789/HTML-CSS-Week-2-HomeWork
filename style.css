@@ -23,7 +23,7 @@ nav a {
   color: white;
 }
 .shop-online {
-  background-color: #bfbfdb;
+  background-color: beige;
   padding: 20px 0;
   text-align: center;
 }
@@ -39,6 +39,13 @@ nav a {
   display: flex;
   padding-top: 100px;
   align-items: center;
+}
+.iphone h1 {
+  font-size: 60px;
+  margin-bottom: 10px;
+}
+.iphone h2 {
+  font-size: 30px;
 }
 .iphone div {
   width: 150px;
@@ -58,6 +65,15 @@ nav a {
   padding-top: 100px;
   align-items: center;
 }
+.iphone13 h1 {
+  font-size: 50px;
+  color: beige;
+}
+.iphone13 h2 {
+  font-size: 20px;
+  color: beige;
+}
+
 .iphone13 div {
   width: 150px;
   display: flex;
@@ -75,6 +91,13 @@ nav a {
   display: flex;
   padding-top: 100px;
   align-items: center;
+  color: purple;
+}
+.valentine h2 {
+  font-size: 40px;
+}
+.valentine h3 {
+  font-size: 40px;
 }
 .valentine div {
   width: 150px;
@@ -93,6 +116,9 @@ nav a {
   display: flex;
   padding-top: 150px;
   align-items: center;
+}
+.watch h2 {
+  font-size: 50px;
 }
 .watch div {
   width: 150px;
@@ -119,6 +145,12 @@ nav a {
   justify-content: space-between;
   margin-top: 40px;
 }
+.entries h1 {
+  font-size: 30px;
+}
+.entries h2 {
+  font-size: 30px;
+}
 .time {
   width: 100%;
   height: 650px;
@@ -135,7 +167,7 @@ nav a {
   width: 150px;
   display: flex;
   justify-content: space-between;
-  margin-top: 40px;
+  margin-top: 10px;
 }
 .future {
   width: 100%;
@@ -154,7 +186,13 @@ nav a {
   width: 150px;
   display: flex;
   justify-content: space-between;
-  margin-top: 40px;
+  margin-top: 10px;
+}
+.future h1 {
+  font-size: 30px;
+}
+.future h2 {
+  font-size: 20px;
 }
 .card {
   width: 100%;
@@ -168,12 +206,16 @@ nav a {
   padding-top: 150px;
   align-items: center;
 }
+.card h1 {
+  font-size: 50px;
+}
 .card div {
   width: 150px;
   display: flex;
   justify-content: space-between;
-  margin-top: 40px;
+  margin-top: 10px;
 }
+
 .sky {
   width: 100%;
   height: 650px;
@@ -183,10 +225,14 @@ nav a {
   flex-direction: column;
   background-position: center;
   display: flex;
-  padding-top: 150px;
+  padding-top: 100px;
   align-items: center;
   color: beige;
 }
+.sky h1 {
+  font-size: 40px;
+}
+
 /*.multi {
   height: 528px;
   width: 45%;
@@ -197,6 +243,12 @@ nav a {
     flex-direction: column;
   } 
 }*/
+.time h2 {
+  font-size: 30px;
+}
+.time h3 {
+  font-size: 30px;
+}
 
 .firstMulti {
   display: flex;
